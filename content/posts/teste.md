@@ -7,6 +7,10 @@ tags:
   - css
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+coverImage: ''
 ---
 sfafa
+
+```
+<h1> a</h1><h2>
+```
